@@ -105,3 +105,18 @@ Output
 | sql_server_name | Name of SQL Servers |
 | sql_database_id | Id's of Database |
 | sql_database_name | Name of Database |
+
+
+## Related Projects
+
+Check out these related projects.
+--------------------------------
+[Azure reource group](https://github.com/OT-terraform-azure-modules/terraform-azure-resource-group)
+
+
+### Contributors
+|  [![Akash Banerjee][Akash_avatar]][Akash.s_homepage]<br/>[Akash Banerjee][Akash.s_homepage] |
+|---|
+ 
+  [Akash.s_homepage]:https://github.com/401-akash
+  [Akash_avatar]: https://gitlab.com/uploads/-/system/user/avatar/10949531/avatar.png?width=400
